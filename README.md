@@ -1,1 +1,1 @@
-# **Bliss Beyond Books** '##c09773'
+# **Bliss Beyond Books** '#c09773'
