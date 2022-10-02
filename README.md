@@ -11,8 +11,8 @@
   <p>2) Beach Read</p>
   <p>3) Book Lovers</p>
   <p>4) The Love Hypothesis</p>
-  <p>5)People We Meet on Vacation</p>
-  <p>6)It Ends with Us</p>
+  <p>5) People We Meet on Vacation</p>
+  <p>6) It Ends with Us</p>
     <img src="https://shortbooksummary.com/wp-content/uploads/2022/08/It-Ends-With-Us-Coleen-Hoover-Book-Summary.jpg" alt="It Ends with Us" style="width:100;height:200;">  
   
   <h3><em>thriller/mystery</em></h3>
@@ -20,8 +20,8 @@
   <p>1) Verity</p>
   <p>2) The Couple Next Door</p>
   <p>3) One of Us is Lying</p>
-  <p>4)A Good Girl's Guide to Murder</p>
-  <p>5)We Were Liars</p>
+  <p>4) A Good Girl's Guide to Murder</p>
+  <p>5) We Were Liars</p>
   <img src="https://pbs.twimg.com/media/FaRd4auXwAEEpL2.jpg" alt="We Were Liars" style="width:200;height:100;">
  <p>My primary source of getting book recommendations from others is by watching youtube videos. [Steph Bohrer](https://www.youtube.com/c/StephBohrer) is one of my favorites to watch since some of her book interests align with mine.</p>  
   
