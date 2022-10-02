@@ -11,7 +11,8 @@
   <p>4) The Love Hypothesis</p>
   <p>5) It Ends With Us</p>
   <p>6) People We Meet on Vacation</p>
- <em>thriller/mystery</em>
+  <h4><em>thriller/mystery</em></h4>
+  <p>Thriller/murder mystery is another genre that I like reading. I find amusement in attempting to solve the puzzles and plot twists that lie within the book.</p>
   <p>1) Verity</p>
   <p>2) The Couple Next Door</p>
   <p>3) One of Us is Lying</p>
