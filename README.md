@@ -13,7 +13,7 @@
   <p>4) The Love Hypothesis</p>
   <p>5)People We Meet on Vacation</p>
   <p>6)It Ends with Us</p>
-    <img src="https://shortbooksummary.com/wp-content/uploads/2022/08/It-Ends-With-Us-Coleen-Hoover-Book-Summary.jpg" alt="Italian Trulli">  
+    <img src="https://shortbooksummary.com/wp-content/uploads/2022/08/It-Ends-With-Us-Coleen-Hoover-Book-Summary.jpg" alt="It Ends with Us" style="width:500px;height:600px;">  
   
   <h3><em>thriller/mystery</em></h3>
   <p>Thriller/murder mystery is another genre that I like reading. I find amusement in attempting to solve the puzzles and plot twists that lie within the book.</p>
@@ -22,7 +22,7 @@
   <p>3) One of Us is Lying</p>
   <p>4)A Good Girl's Guide to Murder</p>
   <p>5)We Were Liars</p>
-  <img src="https://pbs.twimg.com/media/FaRd4auXwAEEpL2.jpg" alt="Italian Trulli">
+  <img src="https://pbs.twimg.com/media/FaRd4auXwAEEpL2.jpg" alt="We Were Liars" style="width:500px;height:600px;">
 <style>
 h1{color:#FFFFFF;}
 h2{color:#FFFFFF;}
