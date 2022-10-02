@@ -24,6 +24,8 @@
   <p>5) We Were Liars</p>
   <img src="https://pbs.twimg.com/media/FaRd4auXwAEEpL2.jpg" alt="We Were Liars" style="width:200;height:100;">
  <p>My primary source of getting book recommendations from others is by watching youtube videos. <a href="https://www.youtube.com/c/StephBohrer/">Steph Bohrer</a> is one of my favorites to watch since some of her book interests align with mine.</p>  
+ 
+  <h3><em>happy reading!</em></h3>
   
 <style>
 h1{color:#FFFFFF;}
