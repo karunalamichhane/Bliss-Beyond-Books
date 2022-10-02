@@ -2,7 +2,9 @@
 <h1>Bliss Beyond Books</h1>
 <h2>author's note</h2>
 <p>Books have always been a part of my life, even if they lay there on the floor untouched. As a child, I never understood the fascination between letters coming together to form something bigger. Staring at words felt like a tedious task when assignments regarding reading were assigned. That was until 6th grade when this changed. We had reading goals that we had to accomplish by the end of the school year, and I was determined to finish them. During one of the reading periods, my friend lent me something to read. I could not just sit there and do nothing, so I caved in. That day something changed "magically," and since then, I have been utterly enthralled by the book. Reading has become a hobby that I hope continues to develop as I grow.</p>
+  
   <h2>book recommendations</h2>
+ 
   <h3><em>romance</em></h3>
   <p>Although there are many genres to pick and choose from, romance is one of my favorite genres. It provides a sense of escapism from reality as I dive deep into the relationship formed by the characters in the book.</p>
   <p>1) Red, White & Royal Blue</p>
@@ -12,7 +14,8 @@
   <p>5)People We Meet on Vacation</p>
   <p>6)It Ends with Us</p>
   https://shortbooksummary.com/wp-content/uploads/2022/08/It-Ends-With-Us-Coleen-Hoover-Book-Summary.jpg
-  <h4><em>thriller/mystery</em></h4>
+  
+  <h3><em>thriller/mystery</em></h3>
   <p>Thriller/murder mystery is another genre that I like reading. I find amusement in attempting to solve the puzzles and plot twists that lie within the book.</p>
   <p>1) Verity</p>
   <p>2) The Couple Next Door</p>
