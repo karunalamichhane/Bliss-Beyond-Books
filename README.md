@@ -5,6 +5,6 @@
 <style>
 h1{color:#FFFFFF;}
 <h1 style="background-image: url('https://pixnio.com/free-images/2020/06/07/2020-06-07-03-14-19-1200x900.jpg');">
-h1{text-align: center;}
+h1 {text-align: center;}
 body{background:#B6977D;}
 </style>
